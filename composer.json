@@ -1,0 +1,25 @@
+{
+  "name": "emirajbbd/constantcontact",
+  "type": "library",
+  "description": "Constant Contact PHP SDK for v2",
+  "keywords": [
+    "constantcontact",
+    "ctct",
+    "email marketing",
+    "constant contact"
+  ],
+  "homepage": "http://developer.constantcontact.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Constant Contact Web Services",
+      "email": "webservices@constantcontact.com",
+      "homepage": "http://developer.constantcontact.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Ctct": "src"
+    }
+  }
+}
